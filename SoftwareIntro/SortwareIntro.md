@@ -52,3 +52,71 @@
 16. [Data and Code - CashLab - MGH/Harvard](https://cashlab.mgh.harvard.edu/data-and-code/)
 
 17. [DABI](https://dabi.loni.usc.edu/login?returnUrl=%2Frequest-data%2FU01NS108916)
+
+
+## 2023-03-02 参考链接
+BCI脑机接口11：BCI2000 - A General-Purpose Brain-Computer Interface (BCI) System全文读后感_麓山君陌的博客-CSDN博客
+https://blog.csdn.net/qq_40851744/article/details/106214133
+
+PsychoPy 简明扼要上手指南——入门篇 - 知乎
+https://zhuanlan.zhihu.com/p/547122997
+
+Documentation — PsychoPy v2023.1.0
+https://www.psychopy.org/documentation.html
+
+PsychoPy - Psychology software for Python
+https://www.psychopy.org/PsychoPyManual.pdf
+
+我的Psychopy學習筆記
+https://sites.google.com/view/ympsychopynotes/home
+
+《实验编程：PsychoPy从入门到精通》 乔纳森·皮尔斯, 迈克尔·麦卡斯基尔 书评 简介 电子书下载 Kindle电子书
+https://www.amazon.cn/dp/B08DKSZCKV
+
+如何利用PsychoPy编写一个经典心理学实验——以返回抑制为例 - 知乎
+https://zhuanlan.zhihu.com/p/329825940
+
+Analyzer脑电数据处理步骤_51CTO博客_脑电数据处理
+https://blog.51cto.com/u_15127566/2707748
+
+Psychopy | 第4期：实验数据的收集与处理_51CTO博客_psychopy线上实验
+https://blog.51cto.com/u_15127566/2707640
+
+psychopy心理学编程 快速配置自变量 - zbaigao的个人空间 - OSCHINA - 中文开源技术交流社区
+https://my.oschina.net/zbaigao/blog/683526
+
+Documentation | OpenViBE
+http://openvibe.inria.fr/documentation-index/
+
+初识OpenVibe_ymczzzz的博客-CSDN博客
+https://blog.csdn.net/qq_42842335/article/details/85629705
+
+Emotiv Epoc＋/CykitV2/OpenVIBE-最经济的BCI解决方案 - 腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/news/337802
+
+Cutting EEG 2021 || 工作坊Tutorials公开共享资源-技术圈
+https://jishuin.proginn.com/p/763bfbd69199
+
+脑信号数据下载_51CTO博客_脑信号
+https://blog.51cto.com/u_6811786/3813639
+
+BCI_101 | Day 2 - 'BCIs becoming mainstream' with NeuroTechX, g.tec, Emotiv, and OpenBCI. - YouTube
+https://www.youtube.com/watch?v=5MLsDeyzGVA&list=PL4W_k_kc6CR6nvl97nWQyFvYK7wF5eb9Q
+
+OpenVibe教程 - Google 搜索
+https://www.google.com.hk/search?q=OpenVibe%E6%95%99%E7%A8%8B&newwindow=1&ei=JJkAZKPCK4XYkPIPnNeO0AE&start=10&sa=N&ved=2ahUKEwij5KGGor39AhUFLEQIHZyrAxoQ8tMDegQIGBAE&biw=1746&bih=1034&dpr=1.25
+
+BCI演示指导 | OpenViBE-Motor Imagery
+https://posts.careerengine.us/p/604dfa5cd1181810b7a0d655
+
+BrainTechnology公众号目录【2020年3月】 - 简书
+https://www.jianshu.com/p/e70658a53eed
+
+介绍 · eeglab_cn
+https://lix90.gitbooks.io/eeglab_cn/content/
+
+MNE-Python教程汇总_脑机接口社区的博客-CSDN博客
+https://blog.csdn.net/zyb228/article/details/104014390
+
+eeglab中文教程系列 汇总_eeglab教程_脑机接口社区的博客-CSDN博客
+https://blog.csdn.net/zyb228/article/details/103015904
