@@ -103,9 +103,6 @@ https://blog.51cto.com/u_6811786/3813639
 BCI_101 | Day 2 - 'BCIs becoming mainstream' with NeuroTechX, g.tec, Emotiv, and OpenBCI. - YouTube
 https://www.youtube.com/watch?v=5MLsDeyzGVA&list=PL4W_k_kc6CR6nvl97nWQyFvYK7wF5eb9Q
 
-OpenVibe教程 - Google 搜索
-https://www.google.com.hk/search?q=OpenVibe%E6%95%99%E7%A8%8B&newwindow=1&ei=JJkAZKPCK4XYkPIPnNeO0AE&start=10&sa=N&ved=2ahUKEwij5KGGor39AhUFLEQIHZyrAxoQ8tMDegQIGBAE&biw=1746&bih=1034&dpr=1.25
-
 BCI演示指导 | OpenViBE-Motor Imagery
 https://posts.careerengine.us/p/604dfa5cd1181810b7a0d655
 
